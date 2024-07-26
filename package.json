@@ -1,8 +1,8 @@
 {
   "name": "nuxt-i18n-locale-config",
   "version": "1.0.0",
-  "description": "My new Nuxt module",
-  "repository": "your-org/my-module",
+  "description": "A nuxt module to allow configuration of i18n locales in locale files instead of nuxt.config.ts",
+  "repository": "Syncro-Labs/nuxt-i18n-locale-config",
   "license": "MIT",
   "type": "module",
   "exports": {
