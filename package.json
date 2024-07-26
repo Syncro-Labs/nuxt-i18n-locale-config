@@ -1,5 +1,5 @@
 {
-  "name": "my-module",
+  "name": "nuxt-i18n-locale-config",
   "version": "1.0.0",
   "description": "My new Nuxt module",
   "repository": "your-org/my-module",
@@ -44,5 +44,8 @@
     "typescript": "latest",
     "vitest": "^2.0.3",
     "vue-tsc": "^2.0.26"
+  },
+  "peerDependencies": {
+    "@nuxtjs/i18n": "latest"
   }
 }
